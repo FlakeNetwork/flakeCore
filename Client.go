@@ -27,7 +27,6 @@ type client struct {
 func GenerateVerifier(l int, u string, p string) (*Verifier, error) {
 	var state bool
 	var verify *Verifier
-	fmt.Println(pc)
 
 	for _, i := range pc {
 		if i.Length == l {
