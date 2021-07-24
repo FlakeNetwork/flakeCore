@@ -1,3 +1,3 @@
-module flakeCore
+module github.com/flakeNetwork/flakeCore
 
-go 1.12
+go 1.13
