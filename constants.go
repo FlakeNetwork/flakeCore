@@ -1,4 +1,4 @@
-package flakeCore
+package flakecore
 
 import (
 	"crypto/rand"
